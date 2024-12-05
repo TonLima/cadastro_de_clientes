@@ -35,7 +35,7 @@ function UsersList() {
   }, []);
 
   const backPage = () => {
-    navigate("/home");
+    navigate("/");
   }
 
   return (
